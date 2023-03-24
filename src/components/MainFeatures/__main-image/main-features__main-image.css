@@ -1,0 +1,10 @@
+.main-features__main-image {
+    z-index: 2;
+}
+
+@media screen and (max-width: 719px) {
+    .main-features__main-image {
+        width: 218px;
+        height: 115px;
+    }
+}

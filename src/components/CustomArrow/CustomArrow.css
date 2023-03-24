@@ -1,0 +1,37 @@
+.custom-arrow-prev {
+    background-image: url("../../images/slider-prev-arr.svg");
+    width: 11px;
+    height: 19px;
+    background-size: cover;
+    top:248px;
+    left:-5px;
+}
+
+.custom-arrow-prev:hover {
+     background-image: url("../../images/slider-prev-arr.svg");
+     transition: ease-in;
+     opacity: 0.8;
+ }
+
+.custom-arrow-prev::before {
+     visibility: hidden;
+ }
+
+.custom-arrow-next {
+    background-image: url("../../images/slider-next-arr.svg");
+    width: 11px;
+    height: 19px;
+    background-size: cover;
+    top:248px;
+    right:-5px;
+}
+
+.custom-arrow-next:hover {
+     background-image: url("../../images/slider-next-arr.svg");
+     transition: ease-in;
+     opacity: 0.8;
+ }
+
+.custom-arrow-next::before {
+     visibility: hidden;
+ }

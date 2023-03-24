@@ -1,0 +1,14 @@
+.main-features__high-res {
+    width: 100%;
+    background: linear-gradient(111.04deg, #E2E2E2 0.39%, rgba(255, 255, 255, 0) 86.46%);
+    padding-top: 75px;
+    padding-bottom: 90px;
+    position: relative;
+    display: block;
+}
+
+@media screen and (max-width: 1023px) {
+    .main-features__high-res {
+        display: none;
+    }
+}

@@ -1,0 +1,13 @@
+.comments__main-comment {
+    align-self: flex-start;
+}
+
+@media screen and (max-width: 719px) {
+    .comments__main-comment {
+        align-self: normal;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0 16px;
+    }
+}

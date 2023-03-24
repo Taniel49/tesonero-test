@@ -1,0 +1,11 @@
+.features-list {
+    width: 50%;
+    padding-top: 100px;
+    background: #F8FBFF;
+}
+
+@media screen and (max-width: 1279px) {
+    .features-list {
+        width: 100%;
+    }
+}

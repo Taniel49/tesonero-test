@@ -1,0 +1,19 @@
+.list-item__main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background: none;
+    border: none;
+}
+
+.list-item__main:hover{
+    opacity: 0.6;
+    transition: 1ms;
+}
+
+@media screen and (max-width:1279px){
+    .list-item__main{
+        padding: 0;
+    }
+}

@@ -1,0 +1,9 @@
+.comments__quotes-bottom {
+    align-self: flex-end;
+}
+
+@media screen and (max-width: 719px) {
+    .comments__quotes-bottom {
+        display: none;
+    }
+}

@@ -1,0 +1,23 @@
+.list-item__feature-name{
+    margin: 0 0 10px 24px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #2E3A59;
+    transition: 1ms;
+}
+
+@media screen and (max-width: 1369px) {
+    .list-item__feature-name {
+        font-size: 22px;
+    }
+}
+
+
+@media screen and (max-width: 1279px) {
+    .list-item__feature-name {
+        font-size: 24px;
+        margin-left: 0;
+        text-align: left;
+    }
+}

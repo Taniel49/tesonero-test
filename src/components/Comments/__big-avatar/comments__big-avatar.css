@@ -1,0 +1,25 @@
+.comments__big-avatar {
+
+}
+
+@media screen and (max-width: 1599px) {
+    .comments__big-avatar {
+        width:97px;
+        height:97px;
+    }
+}
+
+@media screen and (max-width: 1279px) {
+    .comments__big-avatar {
+        width:187px;
+        height:187px;
+    }
+}
+
+@media screen and (max-width: 719px) {
+    .comments__big-avatar {
+        width:97px;
+        height:97px;
+        margin-top:-48px;
+    }
+}

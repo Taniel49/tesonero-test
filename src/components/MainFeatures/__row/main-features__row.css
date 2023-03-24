@@ -1,0 +1,12 @@
+.main-features__row{
+    display: flex;
+    margin: 70px auto 0;
+    max-width: 460px;
+    max-height: 230px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-features__row:nth-child(4){
+    max-width: 860px;
+}

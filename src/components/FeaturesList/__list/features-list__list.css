@@ -1,0 +1,19 @@
+.features-list__list {
+    margin-left: 92px;
+    margin-right: 30px;
+    list-style: none;
+}
+
+@media screen and (max-width: 1599px) {
+    .features-list__list {
+        max-width: 580px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 719px) {
+    .features-list__list {
+        max-width: 473px;
+        margin: 0 auto;
+    }
+}

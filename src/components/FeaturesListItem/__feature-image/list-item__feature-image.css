@@ -1,0 +1,9 @@
+.list-item__feature-image {
+
+}
+
+@media screen and (max-width: 1279px) {
+    .list-item__feature-image {
+        display: none;
+    }
+}

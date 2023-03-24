@@ -1,0 +1,10 @@
+.comments__quotes-right {
+    display: none;
+}
+
+@media screen and (max-width:719px){
+    .comments__quotes-right {
+        display: block;
+        margin-right: 16px;
+    }
+}

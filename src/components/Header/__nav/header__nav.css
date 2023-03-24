@@ -1,0 +1,19 @@
+.header__nav {
+    display: flex;
+    align-items: center;
+    margin-left: 89px;
+    justify-content: space-between;
+    min-width: 540px;
+}
+
+@media screen and (max-width:1279px){
+    .header__nav{
+        min-width: 420px;
+    }
+}
+
+@media screen and (max-width:1023px){
+    .header__nav{
+        display: none;
+    }
+}

@@ -1,0 +1,25 @@
+.header__button{
+    width: 117px;
+    height:32px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #A6ABBD;
+    background: none;
+    border: none;
+    text-align: center;
+}
+
+.header__button:hover{
+    color: #FFFFFF;
+    background: #00C368;
+    box-shadow: 0 8px 16px rgba(0, 195, 104, 0.4);
+    border-radius: 8px;
+}
+
+@media screen and (max-width:1023px){
+    .header__button{
+        display: none;
+    }
+}

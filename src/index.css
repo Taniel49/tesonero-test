@@ -1,0 +1,53 @@
+@import url("./components/Header/header.css");
+@import url("./components/Header/__button/header__button.css");
+@import url("./components/Header/__logo/header__logo.css");
+@import url("./components/Header/__nav/header__nav.css");
+@import url("./components/Header/__constainer/header__container.css");
+
+@import url("blocks/green-line/green-line.css");
+
+@import url("./components/MainFeatures/mainFeatures.css");
+@import url("./components/MainFeatures/__header/main-features__header.css");
+@import url("./components/MainFeatures/__row/main-features__row.css");
+@import url("./components/MainFeatures/__background-image-left/main-features__background-image-left.css");
+@import url("./components/MainFeatures/__background-image-right/main-features__background-image-right.css");
+@import url("./components/MainFeatures/__main-image/main-features__main-image.css");
+@import url("./components/MainFeatures/__high-res/main-features__high-res.css");
+@import url("./components/MainFeatures/__low-res/main-features__low-res.css");
+@import url("./components/MainFeatures/__slider-container/main-features__slider-container.css");
+
+@import url("./components/MainFeature/mainFeature.css");
+@import url("./components/MainFeature/__text/main-feature__text.css");
+
+@import url("./components/Container/container.css");
+
+@import url("./components/Comments/comments.css");
+@import url("./components/Comments/__header/comments__header.css");
+@import url("./components/Comments/__big-comment/comments__big-comment.css");
+@import url("./components/Comments/__text/comments__text.css");
+@import url("./components/Comments/__author/comments__author.css");
+@import url("./components/Comments/__quotes-top/comments__quotes-top.css");
+@import url("./components/Comments/__quotes-bottom/comments__quotes-bottom.css");
+@import url("./components/Comments/__main-comment/comments__main-comment.css");
+@import url("./components/Comments/__small-comments/comments__small-comments.css");
+@import url("./components/Comments/__small-comment/comments__small-comment.css");
+@import url("./components/Comments/__small-avatar/comments__small-avatar.css");
+@import url("./components/Comments/__big-avatar/comments__big-avatar.css");
+@import url("./components/Comments/__text/_big/comments__text_big.css");
+@import url("./components/Comments/__quotes-right/comments__quotes-right.css");
+@import url("./components/Comments/__quotes-left/comments__quotes-left.css");
+@import url("./components/Comments/__big-avatar-container/comments__big-avatar-container.css");
+
+@import url("./components/FeaturesList/featuresList.css");
+@import url("./components/FeaturesList/__header/features-list__header.css");
+@import url("./components/FeaturesList/__text/features-list__text.css");
+@import url("./components/FeaturesList/__list/features-list__list.css");
+
+@import url("./components/FeaturesListItem/featuresListItem.css");
+@import url("./components/FeaturesListItem/__main/list-item__main.css");
+@import url("./components/FeaturesListItem/__container/list-item__container.css");
+@import url("./components/FeaturesListItem/__feature-name/list-item__feature-name.css");
+@import url("./components/FeaturesListItem/__feature-description/list-item__feature-description.css");
+@import url("./components/FeaturesListItem/__feature-image/list-item__feature-image.css");
+
+@import url("./components/CustomArrow/CustomArrow.css");

@@ -1,0 +1,8 @@
+.main-features__slider-container {
+    display: block;
+    margin: 50px auto 100px;
+    min-width: 0;
+    width: 176px;
+    height: 224px;
+    background-position: center;
+}
