@@ -5,8 +5,9 @@
     text-align: center;
     text-transform: uppercase;
     color: #2E3A59;
-    margin: 22px 0 0;
+    margin: 22px 6px 0;
     z-index: 2;
+    position: relative;
 }
 
 @media screen and (max-width: 719px) {
