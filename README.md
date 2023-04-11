@@ -3,4 +3,4 @@
 Скачайте репозиторий: git clone https://github.com/Taniel49/tesonero-test.git  
 Установите зависимости: npm install  
 Запустите проект: npm start или  
-Собирите проект: npm build
+Соберите проект: npm build
