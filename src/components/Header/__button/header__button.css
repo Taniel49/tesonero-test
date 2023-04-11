@@ -9,6 +9,7 @@
     background: none;
     border: none;
     text-align: center;
+    cursor: pointer;
 }
 
 .header__button:hover{

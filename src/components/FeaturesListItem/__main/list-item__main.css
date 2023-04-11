@@ -5,6 +5,7 @@
     width: 100%;
     background: none;
     border: none;
+    cursor: pointer;
 }
 
 .list-item__main:hover{
